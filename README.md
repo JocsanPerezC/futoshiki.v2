@@ -13,6 +13,7 @@ no puede haber números repetidos en ninguna fila o columna, y se deben cumplir 
 - Es posible expadir el el tablero
 - Dificultades
 - Tiempo o cronometro
+- Posicion del trablero
 
 ## Tecnologías utilizadas
 - Java
